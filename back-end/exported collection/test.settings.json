@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6583b9463fe5232ebca1a852"
+  },
+  "user": {
+    "$oid": "6583b9453fe5232ebca1a850"
+  },
+  "IsDeleted": false,
+  "themes": {
+    "textColor": "#ffffff",
+    "buttonColor": "#000000",
+    "bottomNavBgColor": "#000000",
+    "backgroundImage": "https://s3.us-east-2.amazonaws.com/classitree.sg/1000002461.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAXSPNXFMRGQ4MO3PW%2F20231229%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20231229T111701Z&X-Amz-Expires=900&X-Amz-Signature=dfdefd6913bc9c3008e2690ba5f0e1217c992ccdbdd5d29c7eadabed9a9e2bd2&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "_id": {
+      "$oid": "658d5e582a0b593b3ccccc33"
+    }
+  },
+  "preferences": {
+    "numberOfItemsView": 12,
+    "commentEnabling": true,
+    "numberOfPhotos": 12,
+    "_id": {
+      "$oid": "658c0bb31bf9ceb295f6d84d"
+    }
+  },
+  "notifications": {
+    "email": true,
+    "notification": true,
+    "sms": true,
+    "_id": {
+      "$oid": "658c0bb31bf9ceb295f6d84e"
+    }
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a7583438036a16f83640a"
+  },
+  "user": {
+    "$oid": "658a7583438036a16f836408"
+  },
+  "IsDeleted": false,
+  "themes": {
+    "textColor": "green",
+    "buttonColor": "green",
+    "bottomNavBgColor": "green",
+    "backgroundImage": "https://s3.us-east-2.amazonaws.com/classitree.sg/1000002457.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAXSPNXFMRGQ4MO3PW%2F20240102%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20240102T052557Z&X-Amz-Expires=900&X-Amz-Signature=c84487dd244dbb621e6b1d9d0b76889c958293dd69deea6dc9af337c141dea2d&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "_id": {
+      "$oid": "658a7583438036a16f83640b"
+    }
+  },
+  "preferences": {
+    "numberOfItemsView": 10,
+    "commentEnabling": true,
+    "numberOfPhotos": 1,
+    "_id": {
+      "$oid": "658a7583438036a16f83640c"
+    }
+  },
+  "notifications": {
+    "email": true,
+    "notification": true,
+    "sms": false,
+    "_id": {
+      "$oid": "658a7583438036a16f83640d"
+    }
+  },
+  "__v": 0
+}]

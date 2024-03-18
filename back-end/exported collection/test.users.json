@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6583b9453fe5232ebca1a850"
+  },
+  "Name": "Ms Muaz",
+  "Email": "msmuaz98@gmail.com",
+  "Password": "$2b$10$nFUxGJYk0Vkc6hiFgLyvBeYbl8EpSYsMob18fz.FG8mw9AP5P3L.q",
+  "isVerified": true,
+  "IsAdmin": false,
+  "IsDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a7583438036a16f836408"
+  },
+  "Name": "muaz",
+  "Email": "muazmohamed98@gmail.com",
+  "Password": "$2b$10$hLvUg52YyzJjg098IrqXd.pf3di8/vDQ3rY5UqLCIqd2PDJUYLN5G",
+  "isVerified": true,
+  "IsAdmin": true,
+  "IsDeleted": false,
+  "__v": 0
+}]

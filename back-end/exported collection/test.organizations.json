@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6544726493150991c73b1d6b"
+  },
+  "organizationName": "Orgname5 changed",
+  "organizationDescription": "description 5  changed",
+  "notifications": false,
+  "IsDeleted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654472d693150991c73b1d6f"
+  },
+  "organizationName": "Orgname2",
+  "organizationDescription": "description2",
+  "notifications": false,
+  "IsDeleted": true,
+  "__v": 0
+}]
